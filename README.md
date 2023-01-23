@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif" width="300"></img>
     <h1 align="center">Hi 👋 I'm Joao Full Stack Developer 💻</h1>
+    <img src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif" width="300"></img>
     <h3 align="left">
 I am passionate about technology and software development. I am especially interested in the field of web and mobile development.
 </h3>
