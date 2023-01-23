@@ -1,7 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif" width="200"></img>
+    <h1 align="center">Hi there 👋</h1>
+    <h3 align="left">Soy un apasionado de la tecnología y el desarrollo de software. Me interesa especialmente el campo de la inteligencia artificial y la ciberseguridad.
 
-<!--
-**joao034/joao034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En mi tiempo libre, me gusta investigar y experimentar con diferentes tecnologías y lenguajes de programación, y he tenido la oportunidad de trabajar en varios proyectos interesantes.</h3>
+</div>
+
+---
+### About Me:
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Programming Languages and Tools
+
+
+---
+### My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joao034&theme=dracula)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao034&theme=dracula)](https://github.com/anuraghazra/github-readme-stats&)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao034&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
