@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif" width="200"></img>
+    <img src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif" width="300"></img>
     <h1 align="center">Hi there 👋</h1>
     <h3 align="left">Soy un apasionado de la tecnología y el desarrollo de software. Me interesa especialmente el campo de la inteligencia artificial y la ciberseguridad.
 
