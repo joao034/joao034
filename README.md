@@ -12,8 +12,9 @@ I am passionate about technology and software development. I am especially inter
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on interesting projects
-- 🌱 I’m currently learning new technologies
+- 🌱 I’m currently learning new technologies, now I´m learning about machine learning with Python and Open CV.
 - 👯 I’m looking to collaborate on web and mobile projects
+- 🎤  In my free time i like to play basketball and sing.
 - 📫 How to reach me: joaojacome03@gmail.com
 
 ### My Skills
