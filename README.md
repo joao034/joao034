@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋 I'm Joao Full Stack Developer 💻</h1>
+    <h1 align="center">Hi 👋 I'm Joao Software Developer 💻</h1>
     <img src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif" width="300"></img>
     <h3 align="left">
 I am passionate about technology and software development. I am especially interested in the field of web and mobile development.
