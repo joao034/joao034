@@ -13,6 +13,7 @@ I am passionate about technology and software development. I am especially inter
 - 👯 I’m looking to collaborate on web and mobile projects
 - 🎤  In my free time i like to play basketball and sing.
 - 📫 How to reach me: joaojacomedev@gmail.com
+- My CV here: <a href="https://docs.google.com/document/d/1WivZ7yXWg10b0-wAeSTXi48rEDJI2LgH6FW2OQjZxQU/edit?usp=sharing" target="_blank">Curriculum Vitae</a>
 
 ### My Skills
 <table>
