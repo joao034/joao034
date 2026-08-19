@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋 I'm Joao Software Developer 💻</h1>
     <h3 align="left">
-I am passionate about technology and software development. I am especially interested in the field of web and mobile development.
+I am passionate about technology and software development. I am especially interested in AI development
 </h3>
 </div>
 
@@ -9,8 +9,7 @@ I am passionate about technology and software development. I am especially inter
 ### About Me:
 
 - 🔭 I’m currently working on interesting projects
-- 🌱 I’m currently learning new technologies.
-- 👯 I’m looking to collaborate on web and mobile projects
+- 🌱 I’m currently learning new technologies like Langchain and Langgraph.
 - 🎤  In my free time i like to play basketball and sing.
 - 📫 How to reach me: joaojacomedev@gmail.com
 - My CV here: <a href="https://docs.google.com/document/d/1WivZ7yXWg10b0-wAeSTXi48rEDJI2LgH6FW2OQjZxQU/edit?usp=sharing" target="_blank">Curriculum Vitae</a>
